@@ -45,5 +45,43 @@ Practice:
 - SQLZoo
 - Mode Analytics SQL Tutorial (hands-on)
 
+##  Indexing + Transactions + Normalization + Storage
+ 1) Transactions & Concurrency
+
+Topics:
+- ACID properties
+- Serializability (Conflict & View)
+- Schedules: Serial, Serializable, Recoverable
+- Deadlock, Locking protocols (2PL, Strict 2PL)
+
+ Resource:
+- Neso Academy – Transactions & Serializability
+- GeeksforGeeks – Transaction Management
+
+✅ 3. Normalization 
+
+Topics:
+- Functional Dependency (FD)
+- 1NF, 2NF, 3NF, BCNF
+- Decomposition, Lossless join, Dependency preservation
+
+Practice:
+- Solve normalization questions on GFG DBMS
+
+Resource:
+- Jenny’s Lectures – Normalization in DBMS
+
+✅ 4. Transactions vs File System + Recovery Techniques (1 hr)
+Topics:
+- Difference b/w DBMS & File System
+- Checkpoints, Shadow paging, Log-based recovery
+
+Resource:
+- GeeksforGeeks – Recovery Techniques
+
+
+⭐ Must-Solve Questions:
+- DBMS Interview Questions – InterviewBit
+- Scaler Academy DBMS MCQs
 
    
